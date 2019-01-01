@@ -1,7 +1,7 @@
 # RandomNumberRange
 Simple C++ program to categorize random number outputs 
 
-````html
+```
 <h3>To Run Program</h3>
 
 1.download<br>
@@ -9,4 +9,4 @@ Simple C++ program to categorize random number outputs
 3.open terminal and cd into downloaded dir<br>
 4.run g++ randomRange.cpp<br>
 5.run ./a.out for each time want result in terminal<br>
-````
+```
